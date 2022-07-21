@@ -13,5 +13,5 @@ This might not be much but i'm getting there 😁
 }
 ```
 - 🔭 I’m currently working with a team of experts on an all payment solution for SMEs
-- 🌱 I’m currently learning React.js & TypeScript
+- 🌱 I’m currently learning Vue.js & TypeScript
 - 👯 I’m looking to collaborate on interesting, real life projects
