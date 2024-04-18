@@ -1,5 +1,6 @@
 # <b>Hi there 👋, It's Eben 😁<b> 
-I'm a `Cross-platform Mobile Engineer`, `Frontend`, `Backend`
+I'm a `Flutter Developer`
+I have four years of experience developing sleek, `high-performance mobile` and web applications with `Flutter`. I continuously stay updated with the latest developments in mobile app development, highlighting my commitment to ongoing learning. My expertise extends to various aspects of mobile app development, including seamless integration of `RESTful APIs`. I've worked with new and developing technologies such as Firebase for dynamic linking, local and remote notifications; Google Cloud Platform, Cloud Firestore, Version Control (Git), etc.
 
 
 <br>
@@ -15,7 +16,6 @@ I'm a `Cross-platform Mobile Engineer`, `Frontend`, `Backend`
 <br/>
 <br/>
 
-This might not be much but i'm getting there 😁
 
 ### Connect With Me
 
