@@ -2,13 +2,6 @@
 I'm a `Cross-platform Mobile Engineer`, `Frontend`, `Backend`
 
 
-- 🔭 I’m currently working with a team of experts on an all payment solution for SMEs
-
-- 🌱 I’m currently learning Vue.js & TypeScript
-
-- 👯 I’m looking to collaborate on interesting, real life projects
-
-
 <br>
 
 ## <b>Languages and Tools<b/>
