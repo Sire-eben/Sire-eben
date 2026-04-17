@@ -8,7 +8,7 @@ I am a Senior Flutter Engineer with 5+ years of experience building and scaling 
 <br>
 
 
-##🚀 <b>Core Impact & Metrics</b>
+## <b>🚀 Core Impact & Metrics</b>
 Healthtech Turnaround: Led the rebuild of Blueroomcare, delivering a production-ready platform in 3 months after 2 years of stagnation. Supported 1,500+ real-time sessions and saw 300% user growth in 90 days. 
 
 Fintech Scalability: Integrated secure payment systems resulting in a 60% increase in transaction success and a 35% reduction in checkout drop-off. 
@@ -39,7 +39,7 @@ Academic Progression: Currently pursuing an M.Sc. in Information Technology (Exp
 <br/>
 
 <br/>
-##🤖 <b>AI Integration & Modern Tooling</b>
+## <b>🤖 AI Integration & Modern Tooling</b>
 I stay at the forefront of the AI-Native development era, leveraging:
 
 AI Pair Programming: Proficient with Cursor, GitHub Copilot, and Gemini Code Assist for efficient delivery.
